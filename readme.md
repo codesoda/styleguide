@@ -5,7 +5,7 @@
 These are a few of my personal preferences/templates for new(’ish) files.
 
 ## TODOS
-[ ] Create gem/template script so I can override rails generators.
+- [ ] Create gem/template script so I can override rails generators.
 
 ## Models
 - [Model.rb](/model.rb): I’ve created this model so I can quickly drop the layout into new models.
